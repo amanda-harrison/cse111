@@ -1,0 +1,6 @@
+/Users/amandaharrison/cse111/starter/build/CMakeFiles/function_timer.dir
+/Users/amandaharrison/cse111/starter/build/CMakeFiles/peach_snail.dir
+/Users/amandaharrison/cse111/starter/build/CMakeFiles/peach_snail_pg.dir
+/Users/amandaharrison/cse111/starter/build/CMakeFiles/gprof.svg.dir
+/Users/amandaharrison/cse111/starter/build/CMakeFiles/edit_cache.dir
+/Users/amandaharrison/cse111/starter/build/CMakeFiles/rebuild_cache.dir
